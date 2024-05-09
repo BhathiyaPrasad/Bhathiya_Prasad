@@ -10,6 +10,7 @@ function Type() {
           "Freelancer",
           "MERN Stack Developer",
           "Open Source Contributor",
+          "SQL Server Developer"
         ],
         autoStart: true,
         loop: true,
