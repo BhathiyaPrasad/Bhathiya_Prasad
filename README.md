@@ -2,4 +2,4 @@ This is Bhathiya Prasad Personal Potfolio website
 
 
           Tech Stack 
-              React with Javaxcript 
+              React with Javascript 
