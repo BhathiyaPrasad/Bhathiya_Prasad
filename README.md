@@ -1,2 +1,1 @@
-This is Bhathiya Prasad Personal Potfolio we
-      
+This is Bhathiya P
