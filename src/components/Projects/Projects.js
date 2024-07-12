@@ -37,9 +37,9 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="Welcome to my portfolio, built with Next.js, React, and Tailwind CSS for a modern, fast, and responsive experience."
+              ghLink="https://github.com/BhathiyaPrasad/Bhathiya_Prasad.git"
+              demoLink="https://bhathiyaprasad.com"
             />
           </Col>
 
