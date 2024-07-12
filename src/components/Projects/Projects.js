@@ -3,10 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import soulfood from "../../Assets/Projects/soulfood.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import sweetbeans from "../../Assets/Projects/sweetbeans.png";
 import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
 
 function Projects() {
@@ -15,7 +13,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My <strong className="purple">Projects</strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -25,7 +23,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="E Commerce Clothing Store"
+              title="Clothing Store"
+              domain = "Saluni Fashion"
               description=""
               ghLink="https://Salunifashion.lk/"
               demoLink="https://Salunifashion.lk/"
@@ -36,7 +35,8 @@ function Projects() {
             <ProjectCard
               imgPath={portfolio}
               isBlog={false}
-              title="Personal Portfolio"
+              title="My Portfolio"
+              domain = "Bhathiya Prasad"
               description=""
               ghLink="https://github.com/BhathiyaPrasad/Bhathiya_Prasad.git"
               demoLink="https://bhathiyaprasad.com"
@@ -48,6 +48,7 @@ function Projects() {
               imgPath={sweetbeans}
               isBlog={false}
               title="Sweet Beans Cafe Website"
+              domain = "Sweet Beans Kandy"
               description=""
               ghLink="https://sweetbeans.lk"
               demoLink="https://sweetbeans.lk"              
@@ -58,14 +59,15 @@ function Projects() {
             <ProjectCard
               imgPath={soulfood}
               isBlog={false}
-              title="Restaurant QR Food Order With Website - SoulFoods"
+              title="Restaurant QR Food Order With Website"
+              domain = "Soul Food Kandy"
               description=""
               ghLink="https://soulfood.lk"
               demoLink="https://soulfood.lk"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
@@ -85,7 +87,7 @@ function Projects() {
               ghLink=""
               demoLink=""    
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
