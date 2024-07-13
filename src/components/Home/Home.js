@@ -5,11 +5,11 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 // import { Helmet } from "react-helmet-async";
-import { Head } from '../SEO/Head';
+import { SEO } from '../SEO/Head';
 function Home() {
   return (
     <section>
-      <Head
+      <SEO
       title='Bhathiya Prasad'
       description='Personal Portfolio'
       name='Bhathiya Prasad'

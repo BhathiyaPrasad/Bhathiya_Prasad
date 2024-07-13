@@ -2,7 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet-async";
 
 
-export default function SEO({ title, description, name, type }) {
+export default function Head({ title, description, name, type }) {
 
     return (
         <Helmet>
