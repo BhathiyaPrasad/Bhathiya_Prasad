@@ -6,15 +6,15 @@ import Home2 from "./Home2";
 import Type from "./Type";
 // import { Helmet } from "react-helmet-async";
 
-import Head from './../SEO/Head';
+// import Head from './../SEO/Head';
 function Home() {
   return (
     <section>
-      <Head
+      {/* <Head
       title='Bhathiya Prasad'
       description='Personal Portfolio'
       name='Bhathiya Prasad'
-      type='article'/>
+      type='article'/> */}
       <Container fluid className="home-section" id="home">
         <Particle />
         <Container className="home-content">
