@@ -4,10 +4,16 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-
+// import { Helmet } from "react-helmet-async";
+import { SEO } from '../SEO/Head';
 function Home() {
   return (
     <section>
+      <SEO
+      title='Bhathiya Prasad'
+      description='Personal Portfolio'
+      name='Bhathiya Prasad'
+      type='article'/>
       <Container fluid className="home-section" id="home">
         <Particle />
         <Container className="home-content">
