@@ -20,7 +20,7 @@ const Github = () => {
       </Col>
       <Col xs={12} md={4}>
         <div className="mt-5 text-center" style={{ position: 'relative' }}>
-          <h2 className="sponsor-heading text-white">Support My Work</h2>
+          <h2 className="sponsor-heading text-white pb-4">Support My Work</h2>
           
           <iframe
             src="https://github.com/sponsors/BhathiyaPrasad/card"
