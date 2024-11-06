@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 import GitHubCalendar from 'react-github-calendar';
 import { Row, Col } from 'react-bootstrap';
