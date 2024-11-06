@@ -1,8 +1,9 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 import GitHubCalendar from 'react-github-calendar';
 import { Row, Col } from 'react-bootstrap';
 
-const GithubActivityAndSponsor = () => {
+const Github = () => {
   return (
     <Row className="justify-content-center pb-4">
       <Col xs={12} md={8}>
@@ -18,8 +19,9 @@ const GithubActivityAndSponsor = () => {
         />
       </Col>
       <Col xs={12} md={4}>
-        <div className="mt-5 text-center">
+        <div className="mt-5 text-center" style={{ position: 'relative' }}>
           <h2 className="sponsor-heading text-white">Support My Work</h2>
+          
           <iframe
             src="https://github.com/sponsors/BhathiyaPrasad/card"
             title="Sponsor BhathiyaPrasad"
@@ -28,13 +30,29 @@ const GithubActivityAndSponsor = () => {
             style={{
               border: 0,
               maxWidth: '600px',
-              width: '100%'
+              width: '100%',
             }}
           />
+          
+          {/* Clickable Overlay */}
+          <a 
+            href="https://github.com/sponsors/BhathiyaPrasad"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0,
+              right: 0,
+              bottom: 0,
+              zIndex: 1,
+              display: 'block',
+            }}
+          ></a>
         </div>
       </Col>
     </Row>
   );
 };
 
-export default GithubActivityAndSponsor;
+export default Github;
