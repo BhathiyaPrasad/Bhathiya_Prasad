@@ -6,7 +6,8 @@ import soulfood from "../../Assets/Projects/soulfood.png";
 import sweetbeans from "../../Assets/Projects/sweetbeans.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
-
+import QrFoodOrder from "../../Assets/Projects/QRFoodOrder.jpeg";
+import TourBook from "../../Assets/Projects/TourBook.jpeg";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -67,11 +68,11 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={QrFoodOrder}
               isBlog={false}
-              title="Ai For Social Good"
+              title="QR Food Ordering Platform"
               description=""
               ghLink=""
               demoLink="" 
@@ -80,14 +81,14 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={TourBook}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
+              title="Tour Booking Platform"
               description=""
               ghLink=""
               demoLink=""    
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
