@@ -93,7 +93,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={E-Commerce}
+              imgPath={ECommerce}
               isBlog={false}
               title="ECommerce_Platform"
               description=""
