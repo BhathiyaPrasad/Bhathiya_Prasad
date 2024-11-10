@@ -8,6 +8,8 @@ import chatify from "../../Assets/Projects/chatify.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
 import QrFoodOrder from "../../Assets/Projects/QRFoodOrder.jpeg";
 import TourBook from "../../Assets/Projects/TourBook.jpeg";
+import ECommerce from "../../Assets/Projects/ECommerce.jpeg";
+
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -84,6 +86,16 @@ function Projects() {
               imgPath={TourBook}
               isBlog={false}
               title="Tour Booking Platform"
+              description=""
+              ghLink=""
+              demoLink=""    
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={E-Commerce}
+              isBlog={false}
+              title="ECommerce_Platform"
               description=""
               ghLink=""
               demoLink=""    
