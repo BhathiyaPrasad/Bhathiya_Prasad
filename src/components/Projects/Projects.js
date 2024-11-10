@@ -78,22 +78,22 @@ function Projects() {
                 imgPath: QrFoodOrder,
                 title: "QR Food Ordering Platform",
                 description: "",
-                ghLink: "",
-                demoLink: "",
+                ghLink: "https://github.com/BhathiyaPrasad",
+                demoLink: "https://food-menu-silverray.vercel.app/",
               },
               {
                 imgPath: TourBook,
                 title: "Tour Booking Platform",
                 description: "",
-                ghLink: "",
-                demoLink: "",
+                ghLink: "https://github.com/BhathiyaPrasad",
+                demoLink: "https://tourism-web-app-eight.vercel.app/",
               },
               {
                 imgPath: ECommerce,
                 title: "ECommerce Platform",
                 description: "",
-                ghLink: "",
-                demoLink: "",
+                ghLink: "https://github.com/BhathiyaPrasad",
+                demoLink: "https://clothing-platform-nextjs-nkcq.vercel.app/",
               },
             ].map((project, index) => (
               <Col key={index} md={4} className="mb-4">
