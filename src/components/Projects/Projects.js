@@ -9,7 +9,8 @@ import portfolio from "../../Assets/Projects/portfolio.png";
 import QrFoodOrder from "../../Assets/Projects/QRFoodOrder.jpeg";
 import TourBook from "../../Assets/Projects/TourBook.jpeg";
 import ECommerce from "../../Assets/Projects/ECommerce.jpeg";
-import './projects.css'; 
+import color from "../../Assets/Projects/bp-color-lib.png";
+import './projects.css';
 
 function Projects() {
   return (
@@ -88,6 +89,13 @@ function Projects() {
                 ghLink: "https://github.com/BhathiyaPrasad",
                 demoLink: "https://salunifashion.lk/",
               },
+                {
+                    imgPath: color,
+                    title: "BP-COLOR-LIBRARY",
+                    description:"A simple JavaScript library created by Me to retrieve color names from HEX color codes. Easily convert color codes to human-readable names for your web or app projects. Published and available on npm.",
+                    ghLink: "https://github.com/BhathiyaPrasad/bp-color-library",
+                    demoLink: "https://www.npmjs.com/package/bp-color-library",
+                },
             ].map((project, index) => (
               <Col key={index} md={4} className="mb-4">
                 <div className="animate-fade-in" style={{ animationDelay: `${index * 0.1}s` }}>
