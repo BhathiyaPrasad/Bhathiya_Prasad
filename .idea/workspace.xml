@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
-      <change afterPath="$PROJECT_DIR$/src/Assets/Bhathiya Prasad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/bhathiya prasad without outline.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731874098536</updated>
       <workItem from="1731874100563" duration="51000" />
-      <workItem from="1732384649941" duration="915000" />
+      <workItem from="1732384649941" duration="1731000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
       <option name="closed" value="true" />
@@ -89,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732385246583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
+      <option name="closed" value="true" />
+      <created>1732385657413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732385657413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
