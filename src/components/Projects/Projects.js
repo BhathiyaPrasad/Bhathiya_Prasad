@@ -4,7 +4,6 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import soulfood from "../../Assets/Projects/soulfood.png";
 import sweetbeans from "../../Assets/Projects/sweetbeans.png";
-import chatify from "../../Assets/Projects/chatify.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
 import QrFoodOrder from "../../Assets/Projects/QRFoodOrder.jpeg";
 import TourBook from "../../Assets/Projects/TourBook.jpeg";

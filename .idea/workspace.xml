@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="update projects">
-      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/bp-color-lib.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731874098536</updated>
       <workItem from="1731874100563" duration="51000" />
-      <workItem from="1732384649941" duration="4450000" />
+      <workItem from="1732384649941" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
       <option name="closed" value="true" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732388672747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update projects">
+      <option name="closed" value="true" />
+      <created>1732389167746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732389167746</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
