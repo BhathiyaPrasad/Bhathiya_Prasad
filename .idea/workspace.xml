@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assets/Bhathiya Prasadold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/IMG-20240826-WA0009.jpg" afterDir="false" />
+    <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
+      <change afterPath="$PROJECT_DIR$/src/Assets/Bhathiya Prasad.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Bhathiya Prasad.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Bhathiya Prasad.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Bhathiya_Prasad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Bhathiya_Prasadoldtwo.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/PC/Documents/GitHub/Bhathiya_Prasad",
+    "last_opened_file_path": "C:/Users/PC/Documents/GitHub/Bhathiya_Prasad/src/Assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +56,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\GitHub\Bhathiya_Prasad\src\Assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\Documents\GitHub\Bhathiya_Prasad\src\Assets" />
     </key>
@@ -80,11 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1731874098536</updated>
       <workItem from="1731874100563" duration="51000" />
-      <workItem from="1732384649941" duration="516000" />
+      <workItem from="1732384649941" duration="915000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
+      <option name="closed" value="true" />
+      <created>1732385246583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732385246583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad" />
   </component>
 </project>
