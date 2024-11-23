@@ -42,19 +42,12 @@ function Projects() {
           {/* Projects Grid */}
           <Row className="justify-content-center g-4">
             {[
-              {
-                imgPath: chatify,
-                title: "Clothing Store",
-                domain: "Saluni Fashion",
-                description: "",
-                ghLink: "https://Salunifashion.lk/",
-                demoLink: "https://Salunifashion.lk/",
-              },
+
               {
                 imgPath: portfolio,
                 title: "My Portfolio",
                 domain: "Bhathiya Prasad",
-                description: "",
+                description: "Designed and developed a personal portfolio website using React, featuring a modern, responsive design and optimized for search engines with React Helmet to enhance visibility and performance.",
                 ghLink: "https://github.com/BhathiyaPrasad/Bhathiya_Prasad.git",
                 demoLink: "https://bhathiyaprasad.com",
               },
@@ -62,7 +55,7 @@ function Projects() {
                 imgPath: sweetbeans,
                 title: "Sweet Beans Cafe Website",
                 domain: "Sweet Beans Kandy",
-                description: "",
+                description: "Created a responsive restaurant website using HTML, CSS, and Bootstrap, featuring a real-time food ordering system integrated with Firebase for seamless menu browsing and order management.",
                 ghLink: "https://sweetbeans.lk",
                 demoLink: "https://sweetbeans.lk",
               },
@@ -70,30 +63,30 @@ function Projects() {
                 imgPath: soulfood,
                 title: "Restaurant QR Food Order With Website",
                 domain: "Soul Food Kandy",
-                description: "",
+                description: "Created a responsive restaurant website using HTML, CSS, and Bootstrap, featuring a real-time food ordering system integrated with Firebase for seamless menu browsing and order management.",
                 ghLink: "https://soulfood.lk",
                 demoLink: "https://soulfood.lk",
               },
               {
                 imgPath: QrFoodOrder,
                 title: "QR Food Ordering Platform",
-                description: "",
+                description: "Developed a modern food ordering platform using Next.js and ShadCN UI, allowing customers to scan QR codes to browse menus and place orders seamlessly. The platform ensures a fast, user-friendly experience with a sleek and responsive design.",
                 ghLink: "https://github.com/BhathiyaPrasad",
                 demoLink: "https://food-menu-silverray.vercel.app/",
               },
               {
                 imgPath: TourBook,
                 title: "Tour Booking Platform",
-                description: "",
+                description: "A feature-rich tour booking website built with Next.js, leveraging NextAuth for secure user authentication and Firebase for database management. The frontend combines Chakra UI and Tailwind CSS for a modern, responsive design. Includes an admin panel for managing bookings and users, as well as an integrated email service for order confirmations and updates.",
                 ghLink: "https://github.com/BhathiyaPrasad",
                 demoLink: "https://tourism-web-app-eight.vercel.app/",
               },
               {
                 imgPath: ECommerce,
                 title: "ECommerce Platform",
-                description: "",
+                description: "A modern web application built with Next.js and Firebase, featuring seamless user experience and real-time data management. Integrated with OnePay, Mint, and Koko payment gateways for secure and versatile online transactions.",
                 ghLink: "https://github.com/BhathiyaPrasad",
-                demoLink: "https://clothing-platform-nextjs-nkcq.vercel.app/",
+                demoLink: "https://salunifashion.lk/",
               },
             ].map((project, index) => (
               <Col key={index} md={4} className="mb-4">
