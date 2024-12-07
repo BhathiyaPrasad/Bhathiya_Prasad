@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="update projects">
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="update projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <workItem from="1732561583287" duration="199000" />
       <workItem from="1732561801660" duration="836000" />
       <workItem from="1732570104178" duration="1271000" />
-      <workItem from="1734019664937" duration="293000" />
+      <workItem from="1734019664937" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
       <option name="closed" value="true" />
@@ -167,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733587924358</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update projects">
+      <option name="closed" value="true" />
+      <created>1733587941161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733587941161</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update projects">
+      <option name="closed" value="true" />
+      <created>1733587953965</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733587953967</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
