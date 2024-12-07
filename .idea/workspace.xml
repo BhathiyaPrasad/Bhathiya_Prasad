@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef404b4-a9c8-41f0-ab83-6f2b8e068d0a" name="Changes" comment="update projects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +21,12 @@
     &quot;assignee&quot;: &quot;BhathiyaPrasad&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/BhathiyaPrasad/Bhathiya_Prasad.git&quot;,
-    &quot;accountId&quot;: &quot;35772408-bbc8-48e7-b253-bbd17ff68a4e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BhathiyaPrasad/Bhathiya_Prasad.git",
+    "accountId": "88804327-78e0-4aa5-9511-03245be31f23"
   }
-}</component>
+}]]></component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
@@ -85,6 +85,7 @@
       <workItem from="1732561583287" duration="199000" />
       <workItem from="1732561801660" duration="836000" />
       <workItem from="1732570104178" duration="1271000" />
+      <workItem from="1734019664937" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/BhathiyaPrasad/Bhathiya_Prasad">
       <option name="closed" value="true" />
